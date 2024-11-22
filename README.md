@@ -55,7 +55,8 @@ Access the deployed dashboard here:
 ### **Local Development**
 To run the project locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository:source .venv/bin/activate
+
    ```bash
    git clone https://github.com/moseskoroma/cintel-05-cintel.git
 ```
