@@ -48,7 +48,7 @@ This project is a **real-time data dashboard** built using PyShiny. It simulates
 
 ### **Online**
 Access the deployed dashboard here:  
-[**Live Dashboard**](https://moseskoroma.github.io/cintel-05-cintel/)
+[**Live Dashboard**](https://mokeyzz1.github.io/cintel-05-cintel/l/)
 
 ---
 
