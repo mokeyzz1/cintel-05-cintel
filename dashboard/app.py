@@ -79,7 +79,7 @@ with ui.sidebar(open="open"):
     ui.hr()
     ui.h6("Links:")
     ui.a("GitHub Source", href="https://github.com/moseskoroma/cintel-05-cintel", target="_blank")
-    ui.a("Deployed App", href="https://moseskoroma.github.io/cintel-05-cintel/", target="_blank")
+    ui.a("Deployed App", href="https://mokeyzz1.github.io/cintel-05-cintel/", target="_blank")
 
 # Main Panel
 with ui.navset_card_tab(id="main_panel"):
